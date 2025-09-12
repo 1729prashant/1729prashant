@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- I'm a tech professional with 11+ years of experience in PeopleSoft Finance ERP - in technical & functional domains
-- I'm pivoting to products, backend dev, automations and tech architecture domains
+- Tech professional with 11+ years in PeopleSoft Finance ERP (technical + functional)
+- Now building in backend development, automation, and system architecture — applying enterprise-scale experience to modern product engineering
 - 📫 How to reach me: prashantvgaikar at gmail dot com
 
 
