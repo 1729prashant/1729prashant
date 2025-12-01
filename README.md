@@ -1,4 +1,4 @@
-## Technical Solutions Engineering | Building & Delivering Systems That Work
+## Technical Solutions Engineer | Building & Delivering Systems That Work
 
 **Staff/Principal-Level Experience in Enterprise Systems** — I don't just write code, I **architect, deploy, and own** complex, high-stakes solutions that drive **measurable business impact** at scale.
 > *Bridging 11 years of enterprise discipline with modern, scalable backend product development.*
