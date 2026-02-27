@@ -1,17 +1,6 @@
 ## Technical Solutions Engineer | Building & Delivering Systems That Work
 
-**Staff/Principal-Level Experience in Enterprise Systems** — I **architect, deploy, and own** complex, high-stakes solutions that drive **measurable business impact**.
-
-### What I Do
-
-**1. Build End-to-End**
-- Design system architecture based on real requirements. Implement solutions (PeopleSoft production systems, now expanding to Python/Go backends). Deploy to production and support through adoption. Technologies: System integration, APIs, data processing, automation, SQL, Agentic AI.
-
-**2. Deliver Outcomes, Not Just Code**
-- Own projects from stakeholder requirements → production deployment. Bridge technical implementation and business value. Manage complexity: enterprise constraints, data integrity, change management. Track success: adoption, performance, business impact.
-
-**3. Current Focus**
-- Applying 11 years of production systems discipline to modern backend development — building reliable, maintainable solutions that solve real problems.
+**Staff/Principal-Level Experience in Enterprise Systems** — I **architect, deploy, and own** complex, high-stakes solutions that drive **measurable business impact**. Applying 11 years of production systems discipline to modern backend development. 
 
 ### What I'm Looking For
 
