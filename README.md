@@ -11,7 +11,6 @@ I'm particularly interested in the space between **product, technology, and deli
 I'm moving toward roles where I can combine **technical understanding, product thinking, and execution**, particularly:
 
 - Product Management / Technical Product Management
-- Solutions Engineering / Solutions Architecture
 - Implementation / Technical Consulting
 - Technical roles at early-stage companies where I can own problems end-to-end
 
