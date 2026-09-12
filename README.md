@@ -1,16 +1,22 @@
-## Technical Solutions Engineer | Building & Delivering Systems That Work
+## Technical Solutions & Product Engineering
 
-**Staff/Principal-Level Experience in Enterprise Systems** — I **architect, deploy, and own** complex, high-stakes solutions that drive **measurable business impact**. Applying 11 years of production systems discipline to modern backend development. 
+I build and deliver **business-driven technology solutions** — from understanding the problem and designing the approach to building POCs, validating ideas with stakeholders, and working with teams to turn them into production systems.
+
+My background is in **enterprise technology and PeopleSoft techno-functional roles**, with 11 years of experience translating business requirements into working systems, designing business logic, leading delivery teams, and helping organizations evaluate technical solutions before committing significant time or money.
+
+I'm particularly interested in the space between **product, technology, and delivery**: understanding what needs to be built, determining how it should work, proving the approach, and getting it delivered.
 
 ### What I'm Looking For
 
-Roles where I can **build AND see impact:**
-- Implementation Engineer (building customer solutions)
-- Solutions Engineer (technical + customer-facing)
-- Backend/Systems Engineer at product companies (building features users need)
-- Early-stage technical roles (where what you build matters immediately)
+I'm moving toward roles where I can combine **technical understanding, product thinking, and execution**, particularly:
 
-**Not interested in:** Pure ticket-taker roles, endless meetings, or coding without context
+- Product Management / Technical Product Management
+- Solutions Engineering / Solutions Architecture
+- Implementation / Technical Consulting
+- Technical roles at early-stage companies where I can own problems end-to-end
+
+I'm less interested in coding for its own sake and more interested in **using technology to solve the right problem and deliver something that people actually use.**
+
 
 ### Reach out to me:
 [![Email](https://img.shields.io/badge/Email-prashantvgaikar-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashantvgaikar@gmail.com)  
