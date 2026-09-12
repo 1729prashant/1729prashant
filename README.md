@@ -1,20 +1,15 @@
-## Technical Solutions & Product Engineering
+## Technical Solutions & System Architecture
 
-I build and deliver **business-driven technology solutions** — from understanding the problem and designing the approach to building POCs, validating ideas with stakeholders, and working with teams to turn them into production systems.
+I build business-driven technology solutions, focusing on the space between **business requirements and technical execution**: defining how complex business logic should work, validating approaches through POCs and prototypes, and guiding teams toward production-ready systems.
 
-My background is in **enterprise technology and PeopleSoft techno-functional roles**, with 11 years of experience translating business requirements into working systems, designing business logic, leading delivery teams, and helping organizations evaluate technical solutions before committing significant time or money.
+### Core Focus Areas
 
-I'm particularly interested in the space between **product, technology, and delivery**: understanding what needs to be built, determining how it should work, proving the approach, and getting it delivered.
+- **Solution Design:** Translating business requirements into practical technical solutions.
+- **Rapid Prototyping:** Using POCs and demos to validate technical feasibility and business value before significant investment.
+- **System Integration & APIs:** Designing systems and integrations that connect business processes and technology.
+- **Delivery:** Turning ambiguous problems into structured solutions and working with teams to get them into production.
 
-### What I'm Looking For
-
-I'm moving toward roles where I can combine **technical understanding, product thinking, and execution**, particularly:
-
-- Product Management / Technical Product Management
-- Implementation / Technical Consulting
-- Technical roles at early-stage companies where I can own problems end-to-end
-
-I'm less interested in coding for its own sake and more interested in **using technology to solve the right problem and deliver something that people actually use.**
+*Building the right thing, not just building things right.*
 
 
 ### Reach out to me:
