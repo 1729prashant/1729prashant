@@ -1,6 +1,6 @@
-## Technical Solutions & System Architecture
+## Solutions Architecture & Enterprise Systems
 
-I build business-driven technology solutions, focusing on the space between **business requirements and technical execution**: defining how complex business logic should work, validating approaches through POCs and prototypes, and guiding teams toward production-ready systems.
+I drive the strategy, design, and delivery of business-critical technology solutions. Combining deep PeopleSoft FSCM (11+ YOE) expertise with cross-functional leadership, I translate ambiguous enterprise problems into structured technical roadmaps, validate viability via rapid prototyping, and steer delivery teams to production.
 
 ### Core Focus Areas
 
@@ -8,9 +8,6 @@ I build business-driven technology solutions, focusing on the space between **bu
 - **Rapid Prototyping:** Using POCs and demos to validate technical feasibility and business value before significant investment.
 - **System Integration & APIs:** Designing systems and integrations that connect business processes and technology.
 - **Delivery:** Turning ambiguous problems into structured solutions and working with teams to get them into production.
-
-*Building the right thing, not just building things right.*
-
 
 ### Reach out to me:
 [![Email](https://img.shields.io/badge/Email-prashantvgaikar-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashantvgaikar@gmail.com)  
